@@ -1,0 +1,11 @@
+{
+  "session_id": "YOUR_INSTAGRAM_SESSIONID_COOKIE_HERE",
+  "default_message": "Hey {username}, this is an example automated message from our Instagram DM automation tool.",
+  "min_delay_seconds": 45,
+  "max_delay_seconds": 60,
+  "proxy_url": "",
+  "max_targets": 10,
+  "input_file": "data/input.sample.json",
+  "output_file": "data/output.example.json",
+  "dry_run": true
+}
