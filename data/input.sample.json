@@ -1,0 +1,13 @@
+[
+  {
+    "username": "example_user_1",
+    "message": "Hello {username}, thanks for following us! This is a custom message just for you."
+  },
+  {
+    "username": "example_user_2"
+  },
+  {
+    "username": "example_user_3",
+    "note": "You can add arbitrary extra fields here; they can be referenced in the template."
+  }
+]
